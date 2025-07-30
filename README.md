@@ -18,8 +18,6 @@ Created using Adobe Photoshop with a focus on visual clarity, contrast, and comp
 
 ![Thumbnail 3](SM1.jpg)
 
-![Thumbnail 1](ES5S2.jpg)  
-
 ![Thumbnail 4](SM2.jpg)  
 
 ![Thumbnail 5](SM3.jpg)  
