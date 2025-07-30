@@ -14,14 +14,11 @@ Created using Adobe Photoshop with a focus on visual clarity, contrast, and comp
 
 ![Thumbnail 1](ES5S2.jpg)  
 
-<<<<<<< HEAD
 ![Thumbnail 2](ES5S3.jpg)  
 
 ![Thumbnail 3](SM1.jpg)
-=======
-```
-!\[Thumbnail 1](ES5S 2.jpg)  
->>>>>>> eb6a9f2 (commit)
+
+![Thumbnail 1](ES5S2.jpg)  
 
 ![Thumbnail 4](SM2.jpg)  
 
