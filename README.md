@@ -7,7 +7,7 @@ Created using Adobe Photoshop with a focus on visual clarity, contrast, and comp
 
 # Sample Thumbnails
 
-![Thumbnail 1](SHTM.png)
+![Thumbnail 1](SHT55.png)
 
 ![Thumbnail 2](ES5S2.jpg)
 
