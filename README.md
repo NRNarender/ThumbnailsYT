@@ -7,21 +7,21 @@ Created using Adobe Photoshop with a focus on visual clarity, contrast, and comp
 
 # Sample Thumbnails
 
-![Thumbnail 1](SHT#.jpg)
+![Thumbnail 1](SHT1.png)
 
 ![Thumbnail 2](ES5S2.jpg)
 
-![Thumbnail 3](SHT4.jpg)
+![Thumbnail 3](SHT4.png)
 
 ![Thumbnail 4](SMM.jpg)
 
-![Thumbnail 5](SHT.jpg)
+![Thumbnail 5](SHT.png)
 
 ![Thumbnail 6](ES5S3.jpg)
 
-![Thumbnail 7](SHT2.jpg)
+![Thumbnail 7](SHT2.png)
 
-![Thumbnail 8](RAPTL.jpg)
+![Thumbnail 8](RAPTL.png)
 
 ![Thumbnail 9](SM1.jpg)
 
